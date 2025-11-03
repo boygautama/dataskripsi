@@ -1,6 +1,7 @@
-
+````
 url_latih = "https://raw.githubusercontent.com/boygautama/dataskripsi/refs/heads/main/1_Data_UKT_2024.csv"
 url_prediksi = "https://raw.githubusercontent.com/boygautama/dataskripsi/refs/heads/main/1_Data_UKT_2025.csv"
 url_ref_pekerjaan = "https://raw.githubusercontent.com/boygautama/dataskripsi/refs/heads/main/ref_pekerjaans_view.csv"
 url_ref_penghasilan = "https://raw.githubusercontent.com/boygautama/dataskripsi/refs/heads/main/ref_penghasilans_view.csv"
 url_ref_pendidikan = "https://raw.githubusercontent.com/boygautama/dataskripsi/refs/heads/main/ref_pendidikans_view.csv"
+````
